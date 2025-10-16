@@ -1,8 +1,4 @@
-Here’s a polished **README.md** draft for **HealthSight: Predictive Analytics on Clinical Data**. Feel free to adjust sections, wording, or emphasis to fit your style or future enhancements.
 
----
-
-```markdown
 # HealthSight  
 *Predictive Analytics on Clinical Data for Patient Outcomes*
 

@@ -1,5 +1,4 @@
-
-                                                                                                                    # HealthSight  
+# HealthSight  
 *Predictive Analytics on Clinical Data for Patient Outcomes*
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)]()  
